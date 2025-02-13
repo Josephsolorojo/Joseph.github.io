@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="contenedor">
+        
+        <h1 class="titulo">Sistema de Riego Con IoT</h1>
+        <p class="tex">El propósito de nuestro proyecto es minimizar y ayudar a solucionar los problemas que existen en jardines domésticos o en cultivos agroindustriales, por medio de un dispositivo tecnológico; el cual nos facilitara los procesos técnicos para la satisfacción de dicho proyecto; en este caso los jardines domésticos tendrán un riego automatizado para la hidratación de dicho problema. </p>
+    
+    <img class="imagen" src="riego.jpeg" alt="">
+    <h2 class="titulo">Descripción del Proyecto</h2>
+    <p class="sub">Como proyecto contamos con la automatización de riego de plantas domésticas, será resuelto mediante una programación la cual estará en cargada desde la placa de desarrollo ESP32, ya que este dispositivo nos permite flexibilidad de manejo en programación y eficiencia para realizar los códigos para el funcionamiento del proyecto. Las plantas estarán monitoreadas mediante un sensor de humedad Yl-69, el cual nos proporcionara datos que nos permitirán reconocer si la planta está totalmente seca o hidratada. Además tendremos un mecanismo el cual será manejado por una electroválvula que va a permitir el paso o el flujo de agua para el tanque principal, donde se contará, con un sensor de nivel de agua, cuya función es obtener el nivel máximo de llenado para no sufrir derrames, ya que esta situación puede generar consecuencias en las residencias.</p>
+
+    <img class="imagen1" src="tabla.png" alt="">
+ <h3 class="titulo">Restricciones del proyecto </h3>
+ <p class="tex1">•	El sistema está pensado ser diseñado principalmente para jardines domésticos y huertos de pequeña escala, no para grandes extensiones de terreno.
+
+    •	Los sensores utilizados están limitados por su precisión y cobertura en áreas pequeñas, por lo que no serían adecuados para monitorear terrenos amplios.
+    
+    •	El sistema está diseñado para usar bombas sumergibles de bajo caudal, lo que restringe su capacidad para riego en áreas que requieren un volumen de agua considerable o presión de agua alta.
+    
+    </p>
+    <h4 class="titulo">Objetivos General  
+        </h4>
+        <p class="tex2">•	Desarrollar e implementar un sistema de riego automático para cultivos y jardines domésticos, utilizando tecnología de bajo costo con el fin de optimizar el uso de agua y minimizar el esfuerzo humano garantizando la hidratación adecuada de las plantas.
+<h5 class="titulo">Conclusion</h5>
+<p class="tex3">Este dispositivo esta diseñado para solucionar las necesidades de las personas que no tienen el tiempo suficiente para realizar el riego de su planta</p>
+           
+            
+</p>
+</div>
+</body>
+</html>
